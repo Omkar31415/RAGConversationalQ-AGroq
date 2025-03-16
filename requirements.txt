@@ -8,5 +8,3 @@ langchain-groq
 langchain-huggingface
 pypdf
 langchain-chroma
-chromadb
-sqlite3
